@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="S12L01 - ArrayList/src"/>
+	<classpathentry kind="src" path="S12L02 - ArrayList Parte 2/src"/>
+	<classpathentry kind="src" path="S12L03 - Autoboxing and unboxing/src"/>
+	<classpathentry kind="src" path="S12L04 - LinkedList/src"/>
+	<classpathentry kind="src" path="S12L06 - Metodos Stack/src"/>
+	<classpathentry kind="src" path="S12L08 - LinkedList - Operaciones/src"/>
+	<classpathentry kind="src" path="S12L09 - Interface List/src"/>
+	<classpathentry kind="src" path="S12L10 - Iterators/src"/>
+	<classpathentry kind="src" path="S12L11 - Clasificacion e inversion de elementos usando comparator/src"/>
+	<classpathentry kind="src" path="S12L11 - Clasificacion e inversion de elementos/src"/>
+	<classpathentry kind="src" path="S12L12 - Método CompareTo- Vision general Parte 2/src"/>
+	<classpathentry kind="src" path="S12L12 - Método CompareTo- Vision general/src"/>
+	<classpathentry kind="src" path="S12L13 - Interface Comparable/src"/>
+	<classpathentry kind="src" path="S12L14 - LinkedList con Object/src"/>
+	<classpathentry kind="output" path="S12L01 - ArrayList/bin"/>
+</classpath>
